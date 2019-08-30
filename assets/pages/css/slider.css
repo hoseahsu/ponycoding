@@ -97,26 +97,26 @@
 
 /* Carousel Item Background Images */
 .carousel-slider .carousel-item-one {
-    background: url(../../../assets/onepage/img/slider/slide1.jpg);
+    background: url(../../../assets/onepage/img/slider/a001.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-two {
-    background: url(../../../assets/onepage/img/slider/slide2.jpg);
+    background: url(../../../assets/onepage/img/slider/a002.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-three {
-    background: url(../../../assets/onepage/img/slider/slide3.jpg);
+    background: url(../../../assets/onepage/img/slider/a003.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 /* Carousel Titles */
 .carousel-slider .carousel-title-v1 {
-    font-size: 75px;
+    font-size: 55px;
     font-weight: 600;
     font-family: "PT Sans Narrow", Arial, sans-serif;
     line-height: 1.4;
@@ -289,8 +289,12 @@
 /* Carousel Positions */
 .carousel-slider .carousel-position-one {
     position: absolute;
-    top: 10%;
-    left: 15%;
+    top: 40%;
+    left: 45%;
+}
+
+.carousel-slider .carousel-position-one > a {
+    text-decoration:none
 }
 
 .carousel-slider .carousel-position-two {
@@ -368,7 +372,7 @@
     }
 
     .carousel-slider .carousel-title-v2 {
-        font-size: 35px;
+        font-size: 45px;
     }
 
     .carousel-slider .carousel-title-v3 {

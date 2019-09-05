@@ -165,6 +165,10 @@
     font-weight: normal;
 }
 
+.carousel-slider .carousel-title-u3 {
+    padding-right: 600px;
+}
+
 /* Carousel Subtitles */
 .carousel-slider .carousel-subtitle-v1 {
     display: block;
@@ -373,6 +377,15 @@
 
     .carousel-slider .carousel-title-v2 {
         font-size: 45px;
+    }
+
+    .carousel-slider .carousel-title-u2 {
+        top: 30%;
+        left: 0px;
+    }
+
+    .carousel-slider .carousel-title-u3 {
+        padding: 0px 10px;
     }
 
     .carousel-slider .carousel-title-v3 {

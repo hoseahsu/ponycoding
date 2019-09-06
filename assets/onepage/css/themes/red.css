@@ -88,11 +88,11 @@ a:hover {
 @media (max-width: 1024px) {
 	.header-mobi-ext .header-navigation a:hover,
 	.header-mobi-ext .header-navigation li.current a{
-	  background-color: #E85425;
+	  background-color: #9c5cb4;
 	  color: #fff !important;
 	}
 }
 .header .mobi-toggler:hover {
-  background-color: #E85425;
-  border-color: #E85425;
+  background-color: #9c5cb4;
+  border-color: #9c5cb4;
 }
